@@ -8,6 +8,6 @@ class Beer extends Model
 {
     protected $fillable = [
         'name',
-        'value'
+        'price'
     ];
 }
